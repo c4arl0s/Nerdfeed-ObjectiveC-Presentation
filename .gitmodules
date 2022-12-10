@@ -1,0 +1,6 @@
+[submodule "25WebServicesAndUIWebViewObjectiveCMRC"]
+	path = 25WebServicesAndUIWebViewObjectiveCMRC
+	url = git@github.com:c4arl0s/25WebServicesAndUIWebViewObjectiveCMRC.git
+[submodule "26UISplitViewControllerObjectriveCMRC"]
+	path = 26UISplitViewControllerObjectriveCMRC
+	url = git@github.com:c4arl0s/26UISplitViewControllerObjectriveCMRC.git
