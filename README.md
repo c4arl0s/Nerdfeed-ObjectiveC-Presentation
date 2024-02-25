@@ -1,5 +1,11 @@
 # [go back to Overview](https://github.com/c4arl0s#ios-apps-using-objective-cuikit)
 
+In order to update an existing Git submodule execute: (You might need permissions from Owner to get submodules)
+
+```console
+git submodule update --remote --merge
+```
+
 # [Nerdfeed App - Objective-C](https://github.com/c4arl0s/25WebServicesAndUIWebViewObjectiveCMRC#2-startin-the-nerdfeed-application)
 
 Application that reads the RSS feed from the Apple newsroom web services. These news will be listed in a table view.
